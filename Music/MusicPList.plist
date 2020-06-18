@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>albumImage</key>
+		<string>Album_285</string>
+		<key>albumName</key>
+		<string>貳捌伍</string>
+		<key>albumArtistName</key>
+		<string>桃銘木吉他社</string>
+		<key>albumInfo</key>
+		<string>Pop・2016</string>
+		<key>albumSongs</key>
+		<array>
+			<dict>
+				<key>songNumber</key>
+				<integer>1</integer>
+				<key>songName</key>
+				<string>台北傷心魂</string>
+				<key>artistName</key>
+				<string>李咸德</string>
+				<key>trackName</key>
+				<string>李咸德-台北傷心魂</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>2</integer>
+				<key>songName</key>
+				<string>離開之後</string>
+				<key>artistName</key>
+				<string>洪曜昇</string>
+				<key>trackName</key>
+				<string>洪曜昇-離開之後</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>3</integer>
+				<key>songName</key>
+				<string>Hey</string>
+				<key>artistName</key>
+				<string>張瑄涵</string>
+				<key>trackName</key>
+				<string>張瑄涵-Hey</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>4</integer>
+				<key>songName</key>
+				<string>你好不好</string>
+				<key>artistName</key>
+				<string>陳玟卉</string>
+				<key>trackName</key>
+				<string>陳玟卉-你好不好</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>5</integer>
+				<key>songName</key>
+				<string>下一次，期待</string>
+				<key>artistName</key>
+				<string>陳彥融</string>
+				<key>trackName</key>
+				<string>陳彥融-下一次，期待</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>6</integer>
+				<key>songName</key>
+				<string>想問為什麼</string>
+				<key>artistName</key>
+				<string>楊壹晴</string>
+				<key>trackName</key>
+				<string>楊壹晴-想問為什麼</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>7</integer>
+				<key>songName</key>
+				<string>我得去海邊</string>
+				<key>artistName</key>
+				<string>劉晉嘉</string>
+				<key>trackName</key>
+				<string>劉晉嘉-我得去海邊</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>8</integer>
+				<key>songName</key>
+				<string>去飛翔</string>
+				<key>artistName</key>
+				<string>蕭柏欣</string>
+				<key>trackName</key>
+				<string>蕭柏欣-去飛翔</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>9</integer>
+				<key>songName</key>
+				<string>一期一會</string>
+				<key>artistName</key>
+				<string>賴思妤</string>
+				<key>trackName</key>
+				<string>賴思妤-一期一會</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>10</integer>
+				<key>songName</key>
+				<string>唯一的你</string>
+				<key>artistName</key>
+				<string>簡偉真</string>
+				<key>trackName</key>
+				<string>簡偉真-唯一的你</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>albumImage</key>
+		<string>Album_F_Noise</string>
+		<key>albumName</key>
+		<string>花花吵吵 F&apos;Noise</string>
+		<key>albumArtistName</key>
+		<string>花花吵吵 F&apos;Noise</string>
+		<key>albumInfo</key>
+		<string>Punk・2017</string>
+		<key>albumSongs</key>
+		<array>
+			<dict>
+				<key>songNumber</key>
+				<integer>1</integer>
+				<key>songName</key>
+				<string>Intro</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - Intro</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>2</integer>
+				<key>songName</key>
+				<string>花花草草插在大便上</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 花花草草插在大便上</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>3</integer>
+				<key>songName</key>
+				<string>邊緣人</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 邊緣人</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>4</integer>
+				<key>songName</key>
+				<string>等雨停</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 等雨停</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>5</integer>
+				<key>songName</key>
+				<string>李奇</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 李奇</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>6</integer>
+				<key>songName</key>
+				<string>系學會</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 系學會</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>7</integer>
+				<key>songName</key>
+				<string>你太猖狂 (cover)</string>
+				<key>artistName</key>
+				<string>花花吵吵 F&apos;Noise</string>
+				<key>trackName</key>
+				<string>花花吵吵 F_Noise - 你太猖狂 (cover)</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>albumImage</key>
+		<string>Album_Cynical</string>
+		<key>albumName</key>
+		<string>犬儒 Cynical</string>
+		<key>albumArtistName</key>
+		<string>瘋狗浪 Mad Dogs Wave</string>
+		<key>albumInfo</key>
+		<string>Rock・2018</string>
+		<key>albumSongs</key>
+		<array>
+			<dict>
+				<key>songNumber</key>
+				<integer>1</integer>
+				<key>songName</key>
+				<string>關你屁事</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>01 關你屁事</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>2</integer>
+				<key>songName</key>
+				<string>烏鴉</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>02 烏鴉</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>3</integer>
+				<key>songName</key>
+				<string>見色忘友</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>03 見色忘友</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>4</integer>
+				<key>songName</key>
+				<string>愛情遊戲</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>04 愛情遊戲</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>5</integer>
+				<key>songName</key>
+				<string>娘娘槍</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>05 娘娘槍</string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>6</integer>
+				<key>songName</key>
+				<string>活不過今天</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>06 活不過今天 </string>
+			</dict>
+			<dict>
+				<key>songNumber</key>
+				<integer>7</integer>
+				<key>songName</key>
+				<string>如果還有明天 (cover)</string>
+				<key>artistName</key>
+				<string>瘋狗浪 Mad Dogs Wave</string>
+				<key>trackName</key>
+				<string>07 如果還有明天</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
